@@ -1,0 +1,11 @@
+{"surprisal": ["surprisal_abstract_mean", "surprisal_abstract_std", "surprisal_bodytext_mean", "surprisal_bodytext_std"],
+"rst": ["rst_Attribution", "rst_Background", "rst_Cause", "rst_Comparison", "rst_Condition", "rst_Contrast", "rst_Elaboration", "rst_Enablement", "rst_Evaluation", "rst_Explanation", "rst_Joint", "rst_Manner-Means", "rst_Topic-Comment", "rst_Summary", "rst_Temporal", "rst_Topic-Change", "rst_textual-organization", "rst_same-unit"],
+ "grammar": ["grammar_errors_abstract", "grammar_errors_bodytext"],
+ "article_metadata": ["n_author", "outbound_citations_per_word", "title_word_length"],
+ "article_length": ["num_sections", "abstract_word_counts", "abstract_sent_counts", "bodytext_word_counts", "bodytext_sent_counts", "n_outbound_citations"],
+ "sentence_length": ["sent_lens_abs_mean", "sent_lens_abs_var", "sent_lens_bodytext_mean", "sent_lens_bodytext_var"],
+ "mattr": ["lex_mattr_5_abstract", "lex_mattr_10_abstract", "lex_mattr_20_abstract", "lex_mattr_30_abstract", "lex_mattr_40_abstract", "lex_mattr_5_bodytext", "lex_mattr_10_bodytext", "lex_mattr_20_bodytext", "lex_mattr_30_bodytext", "lex_mattr_40_bodytext"],
+ "readability": ["flesch_read_ease_abstract", "flesch_read_ease_bodytext", "flesch_kincaid_grade_level_abstract", "flesch_kincaid_grade_level_bodytext"],
+ "pos": ["pos_abstract_ADJ", "pos_abstract_ADV", "pos_abstract_ADP", "pos_abstract_AUX", "pos_abstract_CCONJ", "pos_abstract_DET", "pos_abstract_INTJ", "pos_abstract_NOUN", "pos_abstract_NUM", "pos_abstract_PART", "pos_abstract_PRON", "pos_abstract_PROPN", "pos_abstract_SPACE", "pos_abstract_VERB", "pos_bodytext_ADJ", "pos_bodytext_ADV", "pos_bodytext_ADP", "pos_bodytext_AUX", "pos_bodytext_CCONJ", "pos_bodytext_DET", "pos_bodytext_INTJ", "pos_bodytext_NOUN", "pos_bodytext_NUM", "pos_bodytext_PART", "pos_bodytext_PRON", "pos_bodytext_PROPN", "pos_bodytext_SPACE", "pos_bodytext_VERB"],
+ "voice": ["voice_abstract_active", "voice_abstract_passive", "voice_abstract_other", "voice_bodytext_active", "voice_bodytext_passive", "voice_bodytext_other"]
+}
